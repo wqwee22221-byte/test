@@ -1,5 +1,5 @@
 venv
 .idea
 __pycache__
-pytest.cahche
-#can will updated qdwqdwqwdqwd
+.pytest_cache
+#can will updated
